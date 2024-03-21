@@ -1,7 +1,7 @@
 # CPU in Logisim
 Fully functional CPU with 8 registers and 16-bit instructions, made using Logisim. 
 
-![CPU](https://github.com/Sam-B-Y/CPU/blob/main/images/cpu.png?raw=true)
+![CPU](https://github.com/Sam-B-Y/CPU-Logisim/blob/main/images/cpu.png?raw=true)
 
 ## Running the CPU
 The CPU's memory follows the Harvard architecture, meaning that the instruction memory and data memory are separate.
